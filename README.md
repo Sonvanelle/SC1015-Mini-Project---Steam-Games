@@ -29,8 +29,9 @@ Therefore, how can we use data science to determine what games can be financiall
 The iPython Notebook was collaboratively worked on using [Deepnote].
 
 ## Process and Conclusion
-- point 1
-- point 2
+- genre & category are insufficient to predict a game's average playtime.
+- owners & overall_reviews have a higher correlation and can better predict a game's average playtime.
+- developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross_platform, and popular through marketing and high quality gameplay.
 
 ## Key Takeaways
 - 
