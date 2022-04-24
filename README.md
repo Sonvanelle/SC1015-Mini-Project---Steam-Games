@@ -48,7 +48,7 @@ The iPython Notebook was collaboratively worked on using [Deepnote].
    [Pandas]: <https://pandas.pydata.org/>
    [Scikit-Learn]: <https://scikit-learn.org/>
    [Deepnote]: <https://deepnote.com/>
-   [here]: <https://github.com/Sonvanelle/SC1015-Mini-Project-Steam-Games/blob/ad9f468bedc168d99354e763523cd5b1f3bdb5f3/SC1015-Mini-Project-Steam-Games/SteamDataset.ipynb>
+   [here]: <https://github.com/Sonvanelle/SC1015-Mini-Project-Steam-Games/blob/main/SC1015-Mini-Project-Steam-Games/SteamDataset.ipynb>
    [steam-store-games]: <https://www.kaggle.com/datasets/nikdavis/steam-store-games>
 
   
