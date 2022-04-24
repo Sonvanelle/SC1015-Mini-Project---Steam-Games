@@ -29,13 +29,18 @@ Therefore, how can we use data science to determine what games can be financiall
 The iPython Notebook was collaboratively worked on using [Deepnote].
 
 ## Process and Conclusion
-- genre & category are insufficient to predict a game's average playtime.
-- owners & overall_reviews have a higher correlation and can better predict a game's average playtime.
-- developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross_platform, and popular through marketing and high quality gameplay.
+- Genre & category are insufficient to predict a game's average playtime.
+- Overall, game genre tags found on each Steam store page only have small correlations to playtime, at best.
+- Clustering helps to group and 'focus down' the many possible combinations of genre tags, which improved our analysis.
+- It can be observed via exploratory analysis that there is a positive correlation between the number of reviews, number of owners, and price on average playtime, more so than individual genres.
+- Owners & overall_reviews have a higher correlation, and thus can better predict a game's average playtime.
+- Developers should focus on ensuring their game is accessible, e.g. cheap/affordable, cross_platform, and popular via marketing and high percieved quality, rather than trying to target a genre segment.
 
 ## Key Takeaways
-- 
-
+- Handling large and imbalanced datasets, how to identify and retain useful data.
+- Different prediction models, such as Gradient Boosting to continuously improve model accuracy.
+- Enhancing data visualisation and comprehension using Heirarchical Clustering.
+- Using Scipy spatial distance and Scikit-Learn clustering to generate a dendrogram.
 
 
    [Charles Chan]: <https://github.com/Sonvanelle>
