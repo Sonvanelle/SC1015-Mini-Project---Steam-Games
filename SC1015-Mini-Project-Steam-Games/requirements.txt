@@ -1,0 +1,5 @@
+networkx
+scipy
+pyvis
+pyvis
+xgboost==1.6.0
