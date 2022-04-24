@@ -57,4 +57,22 @@ The iPython Notebook was collaboratively worked on using [Deepnote].
    [here]: <https://github.com/Sonvanelle/SC1015-Mini-Project-Steam-Games/blob/main/SC1015-Mini-Project-Steam-Games/SteamDataset.ipynb>
    [steam-store-games]: <https://www.kaggle.com/datasets/nikdavis/steam-store-games>
 
-  
+
+
+
+In our video, we had background musics. Credits to:
+
+a promise by Keys of Moon | https://soundcloud.com/keysofmoon
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+Across the Park by Keys of Moon | https://soundcloud.com/keysofmoon
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+Starlight Tale by Keys of Moon | https://soundcloud.com/keysofmoon
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
