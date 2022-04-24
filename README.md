@@ -57,9 +57,10 @@ The iPython Notebook was collaboratively worked on using [Deepnote].
    [here]: <https://github.com/Sonvanelle/SC1015-Mini-Project-Steam-Games/blob/main/SC1015-Mini-Project-Steam-Games/SteamDataset.ipynb>
    [steam-store-games]: <https://www.kaggle.com/datasets/nikdavis/steam-store-games>
 
-
-
-
+<br />
+<br />
+<br />
+  
 In our video, we had background musics. Credits to:
 
 a promise by Keys of Moon | https://soundcloud.com/keysofmoon
